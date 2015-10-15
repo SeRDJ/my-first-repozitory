@@ -1,2 +1,2 @@
-puts "Hello, Russia!"
+puts "Hello, Russia!".reverse
 puts "black perl".reverse
